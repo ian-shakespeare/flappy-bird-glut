@@ -1,5 +1,8 @@
-# flappy-bird-glut
-A simple C++ implementation of Flappy Bird using GLUT. Textures and game design are not my own.
+# Flappy Bird GLUT
+
+![Screenshot of Flappy Bird Glut](screenshot.png)
+
+A simple C++ implementation of Flappy Bird using GLUT OpenGL. Project follows a strict Object Oriented styled. Textures, actors, and menus are all written in isolated class based modules. Project uses the Visual Studio compiler
 
 # How To Play
 It's easy, press `SPACE` to fly! Gravity will do the rest.
